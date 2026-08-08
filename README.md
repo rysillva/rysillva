@@ -108,7 +108,7 @@ goal:
 |------------|----------------|-----------------|
 | 🧩 Sudoku Game | Desktop Sudoku game with validation and interface | Java |
 | 🌐 Portfolio Website | Responsive portfolio with animations | HTML • CSS • JavaScript |
-| ⚙  Roman Numeral Converter | REST APIs with authentication and database | Java • PHP • MySQL |
+| ⚙  Roman Numeral Converter | Roman Numeral to Integer Converter | Java |
 
 </div>
 
