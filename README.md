@@ -192,10 +192,11 @@ Ryan@jarvis:~$ mission
 ```
 
 ---
-
 <div align="center">
 
-⚙ ARTIFICIAL DEVELOPER INTERFACE
+<h2>⚙ ARTIFICIAL DEVELOPER INTERFACE</h2>
+
+<pre align="center">
 ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗
 ██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║
 ██████╔╝ ╚████╔╝ ███████║██╔██╗ ██║
@@ -204,7 +205,6 @@ Ryan@jarvis:~$ mission
 ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 
 Initializing...
-
 System Online
 
 Thanks for visiting my GitHub profile.
@@ -212,6 +212,7 @@ Thanks for visiting my GitHub profile.
 Keep Learning.
 Keep Building.
 Keep Evolving.
+</pre>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0d1117,30:161b22,70:1f6feb,100:58a6ff"/>
 
