@@ -147,16 +147,6 @@ Ryan@jarvis:~$ mission
 
 ---
 
-# 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rysillva&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 # 🌐 CONNECT WITH ME
 
 <div align="center">
@@ -172,20 +162,6 @@ Ryan@jarvis:~$ mission
 <a href="mailto:ry.luis239@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
-</div>
-
----
-
-# ☕ SUPPORT
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Open%20Source-Lover-58A6FF?style=for-the-badge" alt="Open Source Lover"/>
-
-<img src="https://img.shields.io/badge/Clean%20Code-Enthusiast-0D1117?style=for-the-badge" alt="Clean Code Enthusiast"/>
-
-<img src="https://img.shields.io/badge/Always-Learning-2ea44f?style=for-the-badge" alt="Always Learning"/>
 
 </div>
 
